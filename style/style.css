@@ -1,0 +1,20 @@
+h1, h3 {text-align: center;
+    color: rgb(0, 0, 0);
+    font-family:
+}
+h2 {
+    text-align: center;
+    color: green;
+}
+
+.xleft {float: left; margin: 8px;}
+.xright {float: right; margin: 8px;}
+body {background-color: rgb(187, 218, 207);}
+
+footer {text-align: center;
+        color: red;    
+    }
+
+/* img {
+    float: left;
+} */
